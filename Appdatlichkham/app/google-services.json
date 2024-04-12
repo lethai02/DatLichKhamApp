@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946598774025",
+    "project_id": "phongkhamappmain",
+    "storage_bucket": "phongkhamappmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946598774025:android:e47891e6b9fe90871dbfd8",
+        "android_client_info": {
+          "package_name": "com.example.appdatlichkhamcodedoan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946598774025-qeoscdc7ushm9j8cb923d5cfgcrr50dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appdatlichkhamcodedoan",
+            "certificate_hash": "aef8766224e17760bd62359fe18c4df87fbb4b46"
+          }
+        },
+        {
+          "client_id": "946598774025-sqohlnv5jos18relvm4a0t21k3pn7l46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeY8Qoi35KBocHKKNiJ3sO6w6uwaqaK7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946598774025-sqohlnv5jos18relvm4a0t21k3pn7l46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
